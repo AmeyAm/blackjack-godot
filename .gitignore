@@ -1,0 +1,22 @@
+# Godot local cache
+.godot/
+*.import
+
+# Exported builds and temporary output
+builds/
+exports/
+*.exe
+*.app
+*.x86_64
+*.arm64
+*.pck
+*.zip
+
+# Local export settings can include machine-specific paths.
+export_presets.cfg
+export_credentials.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
